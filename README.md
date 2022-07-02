@@ -6,7 +6,8 @@
 -->
 
 <p align="center">
-  <img src="./Picture/主页.png" />
+  <img style='margin:0 5px' src="./Picture/主页.png" />
 </p>
+https://badgen.net/badge/icon/twitter?icon=twitter&label
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjkcxs&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

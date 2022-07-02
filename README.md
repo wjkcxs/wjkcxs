@@ -6,8 +6,8 @@
 -->
 
 <p align="center">
-  <img style='margin:0 5px' src="./Picture/主页.png" />
+  <img src="./Picture/主页.png" />
 </p>
-https://badgen.net/badge/icon/twitter?icon=twitter&label
+<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;">平台地址：'margin:0 5px' src=传送门</a></p><img style='margin:0 5px' src='https://badgen.net/badge/icon/twitter?icon=twitter&label'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjkcxs&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

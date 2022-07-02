@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="./Picture/主页.jpg" />
+  <img src="./Picture/主页.png" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjkcxs)](https://github.com/anuraghazra/github-readme-stats)

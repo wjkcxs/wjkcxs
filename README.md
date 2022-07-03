@@ -30,6 +30,9 @@
   </a>
   <a href="https://www.twitch.tv/wjkcxs">
     <img src="https://img.shields.io/badge/%F0%9F%8E%AB-Twitch-blue" />                                                                    
-  </a>                                                                 
+  </a>
+  <a href="https://weibo.com/u/7513136437">
+    <img src="" />                                                                                                                                                                    
+  </a>                                                                     
 </p>
 

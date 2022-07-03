@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/wjkcxs">
-    <img src="https://github-readme-stats.vercel.app/api?username=wjkcxs&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wjkcxs&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)"/>
   </a>
 </p>

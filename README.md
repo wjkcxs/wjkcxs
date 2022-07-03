@@ -12,17 +12,21 @@
 </p>
  
  <p align="center">
-  <a 1927391038@qq.com">
-    <img src="https://img.shields.io/badge/%E2%9C%89-E--mail-blue" />
   </a>
-    <a href="https://blog.csdn.net/qq_25412055">
-    <img src="https://img.shields.io/badge/🔥%20csdn-brightness.svg?color" />
+    <a href="https://www.facebook.com/profile.php?id=100077767820000">
+    <img src="https://img.shields.io/badge/%F0%9F%98%B7-Facebook-blue" />
   </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=jtCa-JO1R_quVwRjPWvJjAKDiTLP4zlg&jump_from=webapi">
-    <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg?color=9c508a" />
+  <a href="https://discord.com/channels/894777792091271209">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%AF-Discord-blue" />
   </a>
-  <a href="https://github.com/JavaNoober">
-    <img src="https://komarev.com/ghpvc/?username=JavaNoober&color=914d93&label=👁%20Views" />
-  </a>  
+  <a href="https://space.bilibili.com/2108295476">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%9C-BiliBili-blue" />
+  </a>                                                                    
+  <a href="https://www.youtube.com/channel/UCIJMy04FtNFm5DIRzB1ED2A">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%AB-Youtube-blue" />                                                                    
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199086787119">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Steam-blue" />                                                                    
+  </a>                                                                   
 </p>
 

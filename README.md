@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  [E-mail](wjkcxs@outlook.com)
+  联系我 E-mail:wjkcxs@outlook.com
 </p>
 
 

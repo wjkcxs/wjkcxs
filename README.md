@@ -48,7 +48,7 @@
   一位普普通通的05后Forker[^note], 谁说学业与兴趣只能选择一个？Github中个个都是人才，说话又好听🙄。
   学业勉强能维持A,代码呀还是只能看懂自己写不出来,平时从事一些Fork+修改的工作,同时也是一位游戏区up主,Goose House fan。
                  
-[^note]:自创名词（不知道有没有），意为专门只Fork+修改他人项目的人，不做出贡献。
+[^note]:Forker:自创名词（不知道有没有），意为专门只Fork+修改他人项目的人，不做出贡献。
                  
 # 参与项目
   - [x] [RSSHub服务](https://github.com/wjkcxs/RSSHub)

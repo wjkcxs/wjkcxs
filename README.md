@@ -12,7 +12,7 @@
 </p>
  
  <p align="center">
-  <a href="1927391038@qq.com">
+  <a 1927391038@qq.com">
     <img src="https://img.shields.io/badge/%E2%9C%89-E--mail-blue" />
   </a>
     <a href="https://blog.csdn.net/qq_25412055">

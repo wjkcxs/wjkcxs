@@ -49,6 +49,7 @@
   学业勉强能维持A,代码呀还是只能看懂自己写不出来,平时从事一些Fork+修改的工作,同时也是一位游戏区up主[^2],Goose House fan。
                  
 [^1]：自创名词（不知道有没有），意为专门只Fork+修改他人项目的人，不做出贡献。
-[^2]：(Bilili)[https://space.bilibili.com/2108295476]              
+
+[^2]：[Bilili]（https://space.bilibili.com/2108295476）             
 
 

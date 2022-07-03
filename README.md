@@ -50,6 +50,6 @@
                  
 [^1]：自创名词（不知道有没有），意为专门只Fork+修改他人项目的人，不做出贡献。
 
-[^2]：[Bilili]（https://space.bilibili.com/2108295476/）             
+[^2]：[Bilili](https://space.bilibili.com/2108295476/)             
 
 

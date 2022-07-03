@@ -8,6 +8,6 @@
 <p align="center">
   <img src="./Picture/主页.png" />
 </p>
-<p data-tool="mdnice编辑器" style="font-size: 16px; padding-top: 8px; padding-bottom: 8px; margin: 0; line-height: 26px; color: black;"><img style='margin:0 5px' src='https://badgen.net/badge/icon/twitter?icon=twitter&label'>
+[<img style='margin:0 5px' src='https://badgen.net/badge/icon/twitter?icon=twitter&label'>](https://twitter.com/kT2mx457DDD9K53)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjkcxs&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

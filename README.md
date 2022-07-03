@@ -27,6 +27,9 @@
   </a>
   <a href="https://steamcommunity.com/profiles/76561199086787119">
     <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Steam-blue" />                                                                    
-  </a>                                                                   
+  </a>
+  <a href="https://www.twitch.tv/wjkcxs">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AB-Twitch-blue" />                                                                    
+  </a>                                                                 
 </p>
 

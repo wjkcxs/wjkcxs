@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/%F0%9F%8E%AB-Twitch-blue" />                                                                    
   </a>
   <a href="https://weibo.com/u/7513136437">
-    <img src="" />                                                                                                                                                                    
-  </a>                                                                     
+    <img src="https://img.shields.io/badge/%F0%9F%93%BA-Weibo-blue" />                                                                                                   </a>                                                                     
 </p>
 

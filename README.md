@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  [E-mail](wjkcxs@outlook.com)wjkcxs@outlook.com)wjkcxs@outlook.com)
+  [E-mail](wjkcxs@outlook.com)
 </p>
 
 

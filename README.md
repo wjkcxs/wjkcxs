@@ -16,7 +16,7 @@
     <a href="https://www.facebook.com/profile.php?id=100077767820000">
     <img src="https://img.shields.io/badge/%F0%9F%98%B7-Facebook-blue" />
   </a>
-  <a href="https://discord.com/channels/894777792091271209">
+  <a href="https://discord.gg/7XS8cJRWCC">
     <img src="https://img.shields.io/badge/%F0%9F%A4%AF-Discord-blue" />
   </a>
   <a href="[https://space.bilibili.com/2108295476

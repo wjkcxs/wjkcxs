@@ -53,7 +53,7 @@
                  
 # 参与项目
   - [x] [RSSHub服务](https://github.com/wjkcxs/RSSHub)
-  - [ ] onedrive-vercel-index
+  - [x] onedrive-vercel-index
   - [ ] 使用VPS自动下载YouTube视频并存入网盘
   - [ ] [个人博客](https://github.com/wjkcxs/wjkcxs.github.io) 
 

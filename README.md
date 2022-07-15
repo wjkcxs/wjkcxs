@@ -53,7 +53,7 @@
   - [x] [RSSHub服务](https://github.com/wjkcxs/RSSHub)
   - [x] onedrive-vercel-index
   - [ ] 使用VPS自动下载YouTube视频并存入网盘
-  - [ ] [个人博客](https://github.com/wjkcxs/wjkcxs.github.io) 
+  - [x] [个人博客](https://github.com/wjkcxs/wjkcxs.github.io) 
 
 # **赞助**
 您的每次赞助都会为我给予帮助，如果您想要支持我的话，还请每月掏出一点小钱吧！在此我先道以万般感谢！🙌              

@@ -19,7 +19,7 @@
   <a href="https://discord.gg/7XS8cJRWCC">
     <img src="https://img.shields.io/badge/%F0%9F%A4%AF-Discord-blue" />
   </a>
-  <a href="https://space.bilibili.com/2108295476>
+  <a href="https://space.bilibili.com/2108295476">
     <img src="https://img.shields.io/badge/%F0%9F%8D%9C-BiliBili-blue" />
   </a>                                                                    
   <a href="https://www.youtube.com/channel/UCIJMy04FtNFm5DIRzB1ED2A">
